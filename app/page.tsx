@@ -80,8 +80,8 @@ export default function Home() {
                 <Image
                   src="/car-loader.gif"
                   alt="loader"
-                  width={20}
-                  height={20}
+                  width={50}
+                  height={50}
                   className="object-cover"
                 />
               </div>
