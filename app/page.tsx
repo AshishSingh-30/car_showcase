@@ -78,11 +78,11 @@ export default function Home() {
             {loading && (
               <div className="mt-16 w-full flex-center">
                 <Image
-                  src="/loader.svg"
+                  src="/car-loader.gif"
                   alt="loader"
-                  width={50}
-                  height={50}
-                  className="object-contain"
+                  width={20}
+                  height={20}
+                  className="object-cover"
                 />
               </div>
             )}
